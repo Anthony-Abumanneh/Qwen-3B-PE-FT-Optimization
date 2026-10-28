@@ -17,7 +17,6 @@ Questions are split once with a fixed seed: 751 train, 125 dev, 250 test. Test i
 | Baseline (starter prompts) | 16k | 64.0% | 64.5% | 73.2% | 72.3% | 50.3% | 6.7% |
 | PE | 16k | 77.6% | **71.2%** | 71.1% | 77.3% | 66.3% | 7.2% |
 | PE + SFT | 16k | 76.8% | **71.6%** | 71.1% | 76.0% | 68.5% | 5.2% |
-| PE + SFT + RL | 16k | not run yet | not run yet | | | | |
 
 How to read this:
 
